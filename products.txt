@@ -1,0 +1,4 @@
+E|101|Wireless Headphones|2500|10
+E|102|Smart Watch|3500|8
+C|201|Casual Hoodie|1200|15
+C|202|Classic T-Shirt|600|20
